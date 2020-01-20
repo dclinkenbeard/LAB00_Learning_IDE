@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1b4525e-bfb3-4a13-907d-975cf9dfaaa9" name="Default Changelist" comment="Added Documentation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1b4525e-bfb3-4a13-907d-975cf9dfaaa9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +25,7 @@
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -81,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579545267850</updated>
       <workItem from="1579545270449" duration="1131000" />
-      <workItem from="1579547140046" duration="878000" />
+      <workItem from="1579547140046" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the .gitignore file">
       <created>1579546254165</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579547703492</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Documentation">
+      <created>1579548303821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579548303821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +138,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547550026" />
-    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579547741918">
+    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579548391003">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547741918" />
+    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548391003" />
     <state x="797" y="450" width="556" height="275" key="Github.ShareDialog" timestamp="1579546126875">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -160,13 +166,21 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579548018387">
+    <state x="673" y="273" key="MultipleFileMergeDialog" timestamp="1579548329805">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548018387" />
+    <state x="673" y="273" key="MultipleFileMergeDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548329805" />
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579548306109">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548306109" />
     <state x="637" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1579547140382">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="637" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547140381" />
+    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579548361556">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548361556" />
   </component>
 </project>
