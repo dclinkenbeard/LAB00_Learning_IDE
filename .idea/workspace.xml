@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1b4525e-bfb3-4a13-907d-975cf9dfaaa9" name="Default Changelist" comment="" />
+    <list default="true" id="d1b4525e-bfb3-4a13-907d-975cf9dfaaa9" name="Default Changelist" comment="Added Documentation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,15 +25,30 @@
         <option value="Dr.C &lt;dclinkenbeard@csumb.edu&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1WfeqcjfBEziZfxXvuhpYwQJRdF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,12 +80,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579545267850</updated>
-      <workItem from="1579545270449" duration="785000" />
+      <workItem from="1579545270449" duration="1131000" />
+      <workItem from="1579547140046" duration="878000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated the .gitignore file">
+      <created>1579546254165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579546254165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the .gitignore file">
+      <created>1579546294160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579546294160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Documentation">
+      <created>1579547703492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579547703492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated the .gitignore file" />
+    <MESSAGE value="Added Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Documentation" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="594" y="215" key="#Deployment" timestamp="1579546248929">
@@ -76,10 +128,14 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="644" y="223" width="905" height="736" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546015456" />
-    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579546253084">
+    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579547550026">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546253084" />
+    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547550026" />
+    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579547741918">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="393" y="145" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547741918" />
     <state x="797" y="450" width="556" height="275" key="Github.ShareDialog" timestamp="1579546126875">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -88,13 +144,29 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="566" y="256" key="Github.UntrackedFilesDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546142122" />
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579546258351">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1579547784738">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546258351" />
-    <state x="637" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1579545279978">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1579547784738">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="637" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579545279978" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1579547784737">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784737" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1579547784738">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579548018387">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548018387" />
+    <state x="637" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1579547140382">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="637" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547140381" />
   </component>
 </project>
