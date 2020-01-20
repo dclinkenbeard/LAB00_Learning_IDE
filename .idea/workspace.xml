@@ -53,6 +53,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -80,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579545267850</updated>
       <workItem from="1579545270449" duration="1131000" />
-      <workItem from="1579547140046" duration="1215000" />
+      <workItem from="1579547140046" duration="1824000" />
     </task>
     <task id="LOCAL-00001" summary="Updated the .gitignore file">
       <created>1579546254165</created>
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579548303821</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Documentation">
+      <created>1579548432241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579548432241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,14 +147,14 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="644" y="223" width="905" height="736" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546015456" />
-    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579547550026">
+    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579552973938">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547550026" />
-    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579548391003">
+    <state x="706" y="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552973938" />
+    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2" timestamp="1579548430586">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548391003" />
+    <state x="595" y="228" width="1202" height="810" key="CommitChangelistDialog2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548430586" />
     <state x="797" y="450" width="556" height="275" key="Github.ShareDialog" timestamp="1579546126875">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -150,37 +163,37 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="566" y="256" key="Github.UntrackedFilesDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579546142122" />
-    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1579547784738">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1579552973999">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
-    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1579547784738">
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552973999" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1579552973997">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
-    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1579547784737">
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552973997" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1579552973996">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784737" />
-    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1579547784738">
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552973996" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1579552973998">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547784738" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552973998" />
     <state x="673" y="273" key="MultipleFileMergeDialog" timestamp="1579548329805">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="673" y="273" key="MultipleFileMergeDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548329805" />
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579548306109">
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2" timestamp="1579548434655">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548306109" />
-    <state x="637" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1579547140382">
+    <state x="560" y="290" key="Vcs.Push.Dialog.v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548434655" />
+    <state x="637" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1579552906667">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="637" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579547140381" />
-    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579548361556">
+    <state x="637" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552906667" />
+    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579552950107">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579548361556" />
+    <state x="748" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1579552950107" />
   </component>
 </project>
