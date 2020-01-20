@@ -2,31 +2,34 @@ public class Lab00 {
     /**
      * This is a main method. Any class can have one.
      * It is what runs when the the class is called from the command line.
-     * @param args
+     *
+     * @param args These are the command line arguments that get passed in when the code runs
      */
     public static void main(String[] args) {
         //TODO: Add a print statement
+//        also cmd+/ (ctrl+/ on a PC) will auto comment
 
-//        TODO: Define a
+//        TODO: make mainLoop work!
         mainLoop();
 
     }
 
     /**
-     * This is a method. Specifically it is a static method.
-     * What does private mean?
-     * What does static?
-     * What does int mean?
+     * <p>This is a method. Specifically it is a static method.<br>
+     * What does private mean? <br>
+     * What does static?<br>
+     * What does int mean?<br>
      *
-     *  This method will start a loop that presents a menu to the user.
-     *  The menu will look like:
+     * <p> This method will start a loop that presents a menu to the user.<br>
+     *  The menu will look like:<br>
+     *  <pre>
      *      Welcome to the command line calculator!
      *      Select a choice below:
      *      0: Quit
      *      1: add
      *      2: subtract
      *      3: multiply
-     *
+     *</pre>
      * @return returns a number based on execution status (0 is success)
      */
     private static int mainLoop(){
